@@ -16,6 +16,7 @@ Python scripts and AI orchestration<br>Python and Advanced Prompt Engineering<br
 [![](https://komarev.com/ghpvc/?username=sardor-abdusamatov&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 ### ☕ Support My Journey
-[![USDT](https://shields.io)](https://github.com) `TALaUvho8HF3ySCTDfTH5GXjB4PjJqr43T`
+<img src="https://cryptologos.cc" width="20" height="20" valign="middle"> **USDT (TRC-20):** `TALaUvho8HF3ySCTDfTH5GXjB4PjJqr43T`
+
 
 
