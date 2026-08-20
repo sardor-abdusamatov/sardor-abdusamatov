@@ -16,7 +16,7 @@ Python scripts and AI orchestration<br>Python and Advanced Prompt Engineering<br
 [![](https://komarev.com/ghpvc/?username=sardor-abdusamatov&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 ### ☕ Support My Journey
-🟢 **USDT (TRC-20):** `TALaUvho8HF3ySCTDfTH5GXjB4PjJqr43T`
+🟢 **USDT (TRC-20):** `TGjqDrqUU4mJDbbtcLTyMiumFs16Z2V3mW`
 
 
 
